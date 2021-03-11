@@ -1,2 +1,5 @@
 # hello_world
-first steps
+
+This is GitHub
+
+And this is me ... Mario ohh wait.... its Lydia
